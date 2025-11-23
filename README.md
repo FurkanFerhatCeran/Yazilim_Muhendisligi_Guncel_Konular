@@ -6,18 +6,23 @@
 🟩 Strengths (Güçlü Yönler)
 
 **Veri yapısının düzenli olması:**
+
 LGS Veri Analizi soruları grafik, tablo ve oranlardan oluştuğu için makine öğrenmesi için temiz ve işlenebilir yapı sunar.
 
 **Etiketleme sürecinin sistematik yapılmış olması:**
+
 107 sorunun tutarlı bir şemaya göre etiketlenmiş olması profesyonel bir dataset sağlar.
 
 **VR ile uyumlu görsel altyapı:**
+
 Grafik/tablo ağırlıklı içerikler VR ortamında doğal biçimde temsil edilebilir.
 
 **Konunun öngörülebilir ve tutarlı yapısı:**
+
 Veri Analizi soruları yıllara göre çok değişmediği için model daha stabil sonuç verir.
 
 **Ekip işbirliğinin güçlü olması:**
+
 Trello, GitHub ve Drive üzerinden oturmuş bir çalışma kültürü bulunuyor.
 
 🟥 Weaknesses (Zayıf Yönler)
