@@ -13,7 +13,7 @@ LGS Veri Analizi soruları grafik, tablo ve oranlardan oluştuğu için makine �
 
 107 sorunun tutarlı bir şemaya göre etiketlenmiş olması profesyonel bir dataset sağlar.
 
-**VR ile uyumlu görsel altyapı:**
+**VR ile uyumlu görsel altyapı :**
 
 Grafik/tablo ağırlıklı içerikler VR ortamında doğal biçimde temsil edilebilir.
 
