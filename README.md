@@ -170,9 +170,9 @@ Bu proje, **Yazılım Mühendisliğinde Güncel Konular** dersiyle doğrudan ili
 
   Makine öğrenmesi → Modern yazılım projelerinde kullanılan güncel AI yöntemlerini içerir
 
-  VR → Güncel etkileşimli uygulama teknolojilerini kullanır
+  VR → Güncel etkileşimli uygulama teknolojilerini kullanır.
 
-  Eğitim teknolojileri alanında yenilik sunar
+  Eğitim teknolojileri alanında yenilik sunar.
 
 Dolayısıyla proje hem ders amaçlarına uygundur hem de modern teknolojiyle birebir örtüşmektedir.
 
