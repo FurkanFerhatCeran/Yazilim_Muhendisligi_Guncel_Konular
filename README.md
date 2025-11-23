@@ -71,7 +71,7 @@ Kötü çözünürlük, OCR sorunları veya grafik bozulmaları modele gürült�
 Ekip zaman yönetimi riskleri:
 Yoğun dönemlerde model ve VR geliştirme aksayabilir.
 
-Özet
+📝 Özet
 
 Proje; düzenli veri yapısı, kaliteli etiketleme ve VR uyumluluğu ile güçlü bir temel oluştururken; konu çeşitliliğinin azlığı ve görsel tutarsızlıklar zayıf yönleri oluşturmaktadır.
 Eğitim teknolojilerindeki büyüme ve ML/VR entegrasyonu büyük fırsatlar sunarken; soru format değişimleri, donanım erişimi ve genelleme problemleri dikkate alınması gereken tehditlerdir.
@@ -167,4 +167,10 @@ Hedefin tamamlanacağı zaman aralığı belirli olmalıdır.
 | Model değerlendirme             | Aralık 2025             |
 | VR prototipinin geliştirilmesi  | Aralık Sonu             |
 | Sunum + Final teslimleri        | Ocak 2026               |
+
+📝 Özet
+
+Projemiz, LGS veri analizi sorularının etiketlenmesi ve ML modeli ile otomatik sınıflandırılması üzerine net, ölçülebilir ve ulaşılabilir hedeflere sahiptir.
+Model performansı, prototip geliştirme adımları ve teslim tarihleri belirlenmiştir.
+Hem dersin amaçlarıyla uyumludur hem de güncel yazılım mühendisliği yaklaşımlarıyla yüksek düzeyde ilişkilidir.
 
