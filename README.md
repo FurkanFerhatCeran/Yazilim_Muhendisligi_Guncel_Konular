@@ -25,24 +25,29 @@ Veri Analizi soruları yıllara göre çok değişmediği için model daha stabi
 
 Trello, GitHub ve Drive üzerinden oturmuş bir çalışma kültürü bulunuyor.
 
-🟥 Weaknesses (Zayıf Yönler)
+**🟥 Weaknesses (Zayıf Yönler)**
 
-#Etiketleme sürecinin zaman alıcı olması:
+**Etiketleme sürecinin zaman alıcı olması:**
+
 Çok fazla kategori içermesi manuel süreci zorlaştırdı.
 
-#Veri setinin tek konuya sınırlı olması:
+**Veri setinin tek konuya sınırlı olması:**
+
 Şu anda yalnızca “Veri Analizi” ünitesi olduğundan modelin genelleme gücü düşük.
 
-#Görsel kalite farklılıkları:
+**Görsel kalite farklılıkları:**
+
 Farklı yıllara ait PDF taramaları çözünürlük farkı oluşturuyor.
 
-#Bazı sorularda görsel karmaşıklık:
+**Bazı sorularda görsel karmaşıklık:**
+
 Birden fazla grafik türünün yer aldığı sorular etiketlemeyi zorlaştırıyor.
 
-#Teknik iş yükünün eşit dağılmaması riski:
+**Teknik iş yükünün eşit dağılmaması riski:**
+
 Veri hazırlama bazı ekibe daha çok iş yükü bindirebilir.
 
-🟦 Opportunities (Fırsatlar)
+**🟦 Opportunities (Fırsatlar)**
 
 #Makine öğrenmesi ile otomatik soru sınıflandırma:
 Etiketli veri gelecekte tam otomatik bir sınıflandırıcı geliştirmeyi mümkün kılar.
