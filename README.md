@@ -1,1 +1,1 @@
-# Yazilim Mühendisligi Güncel Konular
+# Yazilim Mühendisliginde Güncel Konular
