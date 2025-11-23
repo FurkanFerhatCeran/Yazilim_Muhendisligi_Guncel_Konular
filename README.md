@@ -1,6 +1,7 @@
 # Yazilim Mühendisliginde Güncel Konular
 
 📊 SWOT Analizi
+
 🟩 Strengths (Güçlü Yönler)
 
 Veri yapısının düzenli olması:
