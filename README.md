@@ -1,4 +1,5 @@
-# Yazilim Mühendisliginde Güncel Konular
+# Yazılım Mühendisliğinde Güncel Konular
+
 
 📊 SWOT Analizi
 
