@@ -49,39 +49,49 @@ Veri hazırlama bazı ekibe daha çok iş yükü bindirebilir.
 
 **🟦 Opportunities (Fırsatlar)**
 
-#Makine öğrenmesi ile otomatik soru sınıflandırma:
+**Makine öğrenmesi ile otomatik soru sınıflandırma:**
+
 Etiketli veri gelecekte tam otomatik bir sınıflandırıcı geliştirmeyi mümkün kılar.
 
-#VR/AR teknolojilerinin yükselişi:
+**VR/AR teknolojilerinin yükselişi:**
+
 Eğitim sektöründe VR tabanlı içeriklere yatırım artıyor.
 
-#Veri setinin genişletilebilir olması:
+**Veri setinin genişletilebilir olması:**
+
 Cebir, Geometri, Çarpanlar–Katlar gibi konular eklenebilir.
 
-#Eğitimde yapay zekâ trendinin büyümesi:
+**Eğitimde yapay zekâ trendinin büyümesi:**
+
 Öğretmen, öğrenci ve yayıncılar AI içeriklerine ilgi duyuyor.
 
-#Proje fonları:
+**Proje fonları:**
+
 TÜBİTAK, KOSGEB, Teknofest gibi kurumlar bu projeleri destekliyor.
 
-🟪 Threats (Tehditler)
+**🟪 Threats (Tehditler)**
 
-#Soru formatlarının değişmesi:
+**Soru formatlarının değişmesi:**
+
 MEB bazı yıllarda grafik türlerini ve soru kalıplarını yenileyebiliyor.
 
-#Modelin overfit (genelleme) riski:
+**Modelin overfit (genelleme) riski:**
+
 Tek konuya dayalı dataset ile model genelleme sorunu yaşayabilir.
 
-#VR donanım maliyeti:
+**VR donanım maliyeti:**
+
 VR gözlükleri her okulda olmadığı için kullanım alanı sınırlı kalabilir.
 
-#Görsel kalite tutarsızlığı:
+**Görsel kalite tutarsızlığı:**
+
 Kötü çözünürlük, OCR sorunları veya grafik bozulmaları modele gürültü ekleyebilir.
 
-#Ekip zaman yönetimi riskleri:
+**Ekip zaman yönetimi riskleri:**
+
 Yoğun dönemlerde model ve VR geliştirme aksayabilir.
 
-📝 Özet
+**📝 Özet**
 
 Proje; düzenli veri yapısı, kaliteli etiketleme ve VR uyumluluğu ile güçlü bir temel oluştururken; konu çeşitliliğinin azlığı ve görsel tutarsızlıklar zayıf yönleri oluşturmaktadır.
 Eğitim teknolojilerindeki büyüme ve ML/VR entegrasyonu büyük fırsatlar sunarken; soru format değişimleri, donanım erişimi ve genelleme problemleri dikkate alınması gereken tehditlerdir.
