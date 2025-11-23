@@ -9,7 +9,7 @@
 
 LGS Veri Analizi soruları grafik, tablo ve oranlardan oluştuğu için makine öğrenmesi için temiz ve işlenebilir yapı sunar.
 
-**Etiketleme sürecinin sistematik yapılmış olması:**
+**Etiketleme sürecinin sistematik yapılmış olması**
 
 107 sorunun tutarlı bir şemaya göre etiketlenmiş olması profesyonel bir dataset sağlar.
 
