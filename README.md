@@ -77,7 +77,9 @@ Eğitim teknolojilerindeki büyüme ve ML/VR entegrasyonu büyük fırsatlar sun
 
 
 
+
 🎯 SMART Analizi
+
 🟩 S — Specific (Spesifik / Belirli)
 
 Hedef net, açık ve tam olarak neyin yapılacağını belirtmelidir.
