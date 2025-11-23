@@ -99,83 +99,86 @@ Eğitim teknolojilerindeki büyüme ve ML/VR entegrasyonu büyük fırsatlar sun
 
 
 
-🎯 SMART Analizi
 
-🟩 S — Specific (Spesifik / Belirli)
+**🎯 SMART Analizi**
 
-Hedef net, açık ve tam olarak neyin yapılacağını belirtmelidir.
+**🟩 S — Specific (Spesifik / Belirli)**
 
-Projenin spesifik hedefi:
+**Hedef net, açık ve tam olarak neyin yapılacağını belirtmelidir.**
+
+**Projenin spesifik hedefi:**
 
 ➡️ LGS Matematik Veri Analizi sorularını etiketleyerek, makine öğrenmesi ile otomatik sınıflandıran ve VR ortamında interaktif öğretim sunan bir sistem geliştirmek.
 
 Bu kapsamda belirlenen aşamalar:
 
-200 soruluk etiketli veri seti oluşturmak
+  200 soruluk etiketli veri seti oluşturmak
 
-Bu veri setini ML modeline uygun hâle getirmek
+  Bu veri setini ML modeline uygun hâle getirmek
 
-Tahmin yapabilen bir model geliştirmek
+  Tahmin yapabilen bir model geliştirmek
 
-VR tabanlı etkileşimli bir soru inceleme ortamı hazırlamak
+  VR tabanlı etkileşimli bir soru inceleme ortamı hazırlamak
 
-🟦 M — Measurable (Ölçülebilir)
+**🟦 M — Measurable (Ölçülebilir)**
 
-Hedefin başarısı ölçülebilir olmalıdır. Bu projede:
+**Hedefin başarısı ölçülebilir olmalıdır.**
 
-110 sorunun etiketlenmesi → (Tamamlandı)
+Proje için ölçülebilir metrikler:
 
-CSV veri setinin hazırlanması
+  110 sorunun etiketlenmesi → (Tamamlandı)
 
-ML model performans hedefleri:
+  CSV veri setinin hazırlanması
 
-Accuracy ≥ %80
+  ML model performans hedefleri:
 
-F1-score ≥ %75
+    Accuracy ≥ %80
 
-VR prototipi:
+    F1-score ≥ %75
 
-En az 1 konu (Veri Analizi) içinde çalışan etkileşimli sahne
+  VR prototipi:
+
+    En az 1 konu (Veri Analizi) içinde çalışan etkileşimli sahne
 
 Bu metrikler projenin ilerlemesini sayısal olarak takip etmeyi sağlar.
 
-🟩 A — Achievable (Ulaşılabilir)
+**🟩 A — Achievable (Ulaşılabilir)**
 
-Hedefler, ekip yetenekleri ve mevcut araçlarla ulaşılabilir olmalıdır.
+**Hedefler, ekip yetenekleri ve mevcut araçlarla ulaşılabilir olmalıdır.**
 
 Bu projenin hedefleri ulaşılabilir çünkü:
 
-Ekibinizde Python, ML, VR/Unity bilgisi var
+  Ekibimizde Python, ML, VR/Unity bilgisi var
 
-Gerekli dataset tamamlandı
+  Gerekli dataset tamamlandı
 
-Logistic Regression, Random Forest, XGBoost gibi modeller bu tür sınıflandırma için yeterli
+  Logistic Regression, Random Forest, XGBoost gibi modeller bu tür sınıflandırma için yeterli
 
-VR için Unity / Unreal Engine kullanılabilir
+  VR için Unity / Unreal Engine kullanılabilir
 
-Görevler ekip içinde dengeli şekilde dağıtılıyor
+  Görevler ekip içinde dengeli şekilde dağıtılıyor
 
 Bu nedenle hedefler gerçekçi ve yapılabilir.
 
-🟪 R — Relevant (İlgili / Projeye Uygun)
+**🟪 R — Relevant (İlgili / Projeye Uygun)**
 
-Hedef, dersin amaçları ve proje çıktılarıyla uyumlu olmalıdır.
+**Hedef, dersin amaçları ve proje çıktılarıyla uyumlu olmalıdır.**
 
-Bu proje, Yazılım Mühendisliğinde Güncel Konular dersiyle doğrudan ilişkilidir çünkü:
+Bu proje, **Yazılım Mühendisliğinde Güncel Konular** dersiyle doğrudan ilişkilidir çünkü:
 
-Veri etiketleme → Yazılım mühendisliğinde veri hazırlamanın gerçek bir örneğidir
+  Veri etiketleme → Yazılım mühendisliğinde veri hazırlamanın gerçek bir örneğidir
 
-Makine öğrenmesi → Modern yazılım projelerinde kullanılan güncel AI yöntemlerini içerir
+  Makine öğrenmesi → Modern yazılım projelerinde kullanılan güncel AI yöntemlerini içerir
 
-VR → Güncel etkileşimli uygulama teknolojilerini kullanır
+  VR → Güncel etkileşimli uygulama teknolojilerini kullanır
 
-Eğitim teknolojileri alanında yenilik sunar
+  Eğitim teknolojileri alanında yenilik sunar
 
 Dolayısıyla proje hem ders amaçlarına uygundur hem de modern teknolojiyle birebir örtüşmektedir.
 
-🟥 T — Time-Bound (Zaman Sınırlı)
+**🟥 T — Time-Bound (Zaman Sınırlı)**
 
-Hedefin tamamlanacağı zaman aralığı belirli olmalıdır.
+**Hedefin tamamlanacağı zaman aralığı belirli olmalıdır.**
 
 ### 📅 Proje Zaman Planı
 
@@ -188,7 +191,7 @@ Hedefin tamamlanacağı zaman aralığı belirli olmalıdır.
 | VR prototipinin geliştirilmesi  | Aralık Sonu             |
 | Sunum + Final teslimleri        | Ocak 2026               |
 
-📝 Özet
+**📝 Özet**
 
 Projemiz, LGS veri analizi sorularının etiketlenmesi ve ML modeli ile otomatik sınıflandırılması üzerine net, ölçülebilir ve ulaşılabilir hedeflere sahiptir.
 Model performansı, prototip geliştirme adımları ve teslim tarihleri belirlenmiştir.
