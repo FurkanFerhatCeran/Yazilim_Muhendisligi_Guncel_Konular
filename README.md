@@ -1,9 +1,9 @@
 # Yazılım Mühendisliğinde Güncel Konular
 
 
-📊 SWOT Analizi
+**📊 SWOT Analizi**
 
-🟩 Strengths (Güçlü Yönler)
+**🟩 Strengths (Güçlü Yönler)**
 
 **Veri yapısının düzenli olması:**
 
